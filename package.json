@@ -1,0 +1,15 @@
+{
+  "name": "bot-wa-apa",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Baileys Pairing Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.13",
+    "pino": "^9.0.0",
+    "form-data": "^4.0.0",
+    "yt-search": "^2.12.1"
+  }
+}
